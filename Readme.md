@@ -1,0 +1,1 @@
+vanilla JavaScript application Here i created a vanilla JavaScript application that fetches random facts on any number entered.
